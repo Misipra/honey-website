@@ -134,6 +134,7 @@ function CartContainer() {
           <img src={emptyCart} className='w-500' alt='Empty Cart'/>
           <p className='text-xl text-cyan-500 font-semibold'>Your cart is Empty</p>
         </div>
+        
       )}
     </motion.div>
     
